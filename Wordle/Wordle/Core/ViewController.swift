@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    let answers =  ["after", "later", "bloke", "there", "ultra",  "happy", "nails", "party", "hoppy", "apple", "niggas", "updog", "boats", "funny", "scope", "sunny", "puppy",  "board"]
+    let answers =  ["after", "later", "bloke", "there", "ultra",  "happy", "nails", "party", "hoppy", "apple", "updog", "boats", "funny", "scope", "sunny", "puppy",  "board", "hello"]
     
     var answer = ""
     private var  guesses:  [[Character?]] = Array(
